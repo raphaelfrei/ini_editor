@@ -1,2 +1,3 @@
-# ini_editor
-C# .INI File Editor/Creator
+# .INI File Editor
+
+.NET C# .INI File Editor/Creator Freeware
